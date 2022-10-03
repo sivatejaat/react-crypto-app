@@ -45,7 +45,7 @@ export const {
 //     method: 'GET',
 //     url: 'https://coinranking1.p.rapidapi.com/coins',
 //     params: {
-//       referenceCurrencyUuid: 'yhjMzLPhuIDl',
+//       referenceCurrencyUuid: '',
 //       timePeriod: '24h',
 //       'tiers[0]': '1',
 //       orderBy: 'marketCap',
@@ -54,7 +54,7 @@ export const {
 //       offset: '0'
 //     },
 //     headers: {
-//       'X-RapidAPI-Key': '1883935112msh84763401ada4ea7p1a7e5djsnca48c8f8d15a',
+//       'X-RapidAPI-Key': '',
 //       'X-RapidAPI-Host': 'coinranking1.p.rapidapi.com'
 //     }
 //   };
