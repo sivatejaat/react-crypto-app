@@ -1,4 +1,15 @@
-Welcome to the Kryptology React app where You can get all information about cryptocurrencies.
+Welcome to the CryptoVerse React app where You can get all information about cryptocurrencies.
+#### Home Page: 
+![image](https://user-images.githubusercontent.com/62197789/195667513-97da3334-fa53-4d8c-b79e-ec27e43b0acd.png)
+
+#### Top 100 Cryptocurrencies: 
+![image](https://user-images.githubusercontent.com/62197789/195667654-03e9ca80-2fc1-4978-b0df-8916ca6f1427.png)
+
+#### News Related to Cryptocurrency:
+![image](https://user-images.githubusercontent.com/62197789/195667747-5014f519-0c94-40e1-ae26-6479dccbc7b6.png)
+
+
+
 
 In the project directory, you can run:
 
